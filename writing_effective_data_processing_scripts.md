@@ -73,8 +73,7 @@ The final lessons is: _Do what is right, not what this guide says!_
 
 You'll need to carefully choose relevant information to display -- it is an art form to display just enough information
 without overwhelming the user. And sometimes you'll simply not be able to print the data as useful as it should be --
-sometimes that will not be pratical to do. Start simple and then try and understand the output of the script -- if it doesn't,
-ask yourself what data is missing and would make the script more helpful. Add that data if you can!
+sometimes that will not be pratical to do. Start simple and then try and understand the output of the script -- if it doesn't make sense, ask yourself what data is missing and would make the script more helpful. Add that data if you can!
 
 Also, remember the world was not built in a day. Sometimes is it a good idea to write a script and have it produce some output;
 set it aside for a day and come back to it (or give it to someone else to read/interpret). Does the output still make sense?
